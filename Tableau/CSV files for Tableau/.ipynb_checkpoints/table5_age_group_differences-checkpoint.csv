@@ -1,0 +1,9 @@
+Age Group,Test Group Mean Completion Time (minutes),Control Group Mean Completion Time (minutes),T-Statistic,P-Value,Results
+56-65,6.53,4.2,5.4823,0.0,There is a significant difference in completion times between the Test and Control groups for this age group.
+46-55,5.53,3.72,4.5127,0.0,There is a significant difference in completion times between the Test and Control groups for this age group.
+36-45,4.42,3.94,1.2383,0.216,There is no significant difference in completion times between the Test and Control groups for this age group.
+26-35,3.91,3.55,1.0863,0.2777,There is no significant difference in completion times between the Test and Control groups for this age group.
+66-75,6.01,5.03,1.4392,0.1505,There is no significant difference in completion times between the Test and Control groups for this age group.
+76-85,6.92,6.69,0.192,0.8481,There is no significant difference in completion times between the Test and Control groups for this age group.
+17-25,3.63,3.24,0.4175,0.6772,There is no significant difference in completion times between the Test and Control groups for this age group.
+86-95,2.2,4.38,-0.6508,0.5364,There is no significant difference in completion times between the Test and Control groups for this age group.

@@ -1,0 +1,3 @@
+Group,F-Statistic,P-Value,Results
+Test Group,10.3162,0.0,There is a significant difference in completion times across age groups in the Test group. Slowest Age Group: 76-85 with a mean completion time of 6.92 minutes.
+Control Group,2.7046,0.01,There is a significant difference in completion times across age groups in the Control group. Slowest Age Group: 76-85 with a mean completion time of 6.69 minutes.

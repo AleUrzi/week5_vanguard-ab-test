@@ -1,0 +1,17 @@
+Group,Age Group,Completion Time (minutes)
+test,56-65,6.53
+test,46-55,5.53
+test,36-45,4.42
+test,26-35,3.91
+test,66-75,6.01
+test,76-85,6.92
+test,17-25,3.63
+test,86-95,2.2
+control,56-65,4.2
+control,46-55,3.72
+control,36-45,3.94
+control,26-35,3.55
+control,66-75,5.03
+control,76-85,6.69
+control,17-25,3.24
+control,86-95,4.38
