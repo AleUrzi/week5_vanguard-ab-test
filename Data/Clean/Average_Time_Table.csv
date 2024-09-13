@@ -1,0 +1,11 @@
+Group,Steps,Mean Time value (min)
+test,start,2.298236
+test,step_1,0.798211
+test,step_2,0.959476
+test,step_3,1.602353
+test,confirm,2.630863
+control,start,2.374528
+control,step_1,0.774793
+control,step_2,1.053461
+control,step_3,1.539637
+control,confirm,2.676163
