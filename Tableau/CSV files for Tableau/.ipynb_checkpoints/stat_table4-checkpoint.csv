@@ -1,0 +1,5 @@
+T-Statistic,P-Value,Results
+3.7025,0.0001,The avg completion time for females in the test group is higher than males.
+-1.7635,0.0778,There is no significant difference in completion times between females and males in the Control Group.
+17.0116,0.0,The avg completion time for females in the test group is significantly higher than in the control group.
+11.9015,0.0,The avg completion time for males in the test group is significantly higher than in the control group.
